@@ -1,6 +1,6 @@
 #!/bin/bash
 
-rm alg-repo*
+rm aero-repo*
 
 echo "repo-add"
 repo-add -n -R aero-repo.db.tar.gz *.pkg.tar.zst
